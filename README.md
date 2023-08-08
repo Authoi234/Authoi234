@@ -1,5 +1,5 @@
 ![Web Developer](https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/242359587_1491379814528818_6698399653953414635_n.png?stp=dst-png_p180x540&_nc_cat=107&ccb=1-7&_nc_sid=e3f864&_nc_ohc=MYkNWpBqZhwAX-9CSHY&_nc_ht=scontent.fdac134-1.fna&oh=00_AfBZeawOpUTiHVVw7HH58572wk3WtSacED0DkkGPIfosOQ&oe=64D405CE)
-# Hi there 👋, my name is Authoi
+<h1 align="center">Hi there 👋, my name is Authoi</h1>
 #### Web Developer
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
