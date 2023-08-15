@@ -20,8 +20,6 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Authoi234)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Authoi234&show_icons=true&count_private=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Authoi234)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Authoi234&show_icons=true&count_private=true)  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Authoi234)  
 
 ![Profile views](https://gpvc.arturio.dev/Authoi234)  
