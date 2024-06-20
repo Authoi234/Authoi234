@@ -24,24 +24,24 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 ## :computer: Technologies that I know
 
 <br>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
-<img src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
+<p align="center" height="80px" width="100%">
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
+<img width="80px" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
 </p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
-<img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/>
-<img src="https://miro.medium.com/v2/resize:fit:493/1*HHGc3cQgpSVes0maUAnYog.png"/>
+<p align="center" height="80px" width="100%">
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
+<img width="80px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/>
+<img width="80px" src="https://miro.medium.com/v2/resize:fit:493/1*HHGc3cQgpSVes0maUAnYog.png"/>
 </p>
-<p align="center">
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
-<img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<p align="center" height="80px" width="100%">
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
+<img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Authoi234)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Authoi234&show_icons=true&count_private=true)  
