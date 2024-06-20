@@ -15,7 +15,22 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Authoi234)](https://github.com/ryo-ma/github-profile-trophy) 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Authoi234)  
+<div>
+  ![GitHub streak stats](https://streak-stats.demolab.com/?user=Authoi234)   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=mir-hussain&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />F
+</div>
+
+## :computer: Technologies that I know
+
+<br>
+<p align="center">
+
+</p>
+<p align="center">
+
+</p>
+<p align="center">
+
+</p><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Authoi234)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Authoi234&show_icons=true&count_private=true)  
 
