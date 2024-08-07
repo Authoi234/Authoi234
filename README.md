@@ -1,7 +1,6 @@
 
 <div align="center">
-  <h1>Hi there 👋, my name is Authoi<h1>
-  <h2>I am a Web Developer</h2>
+  <h1>Hi there 👋, my name is Authoi <br/> I am a Web Developer<h1>
 </div>
 ## I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your 
                                                              profile.
