@@ -26,9 +26,10 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img width="80px" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+  <img width="80px" src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*Vo5RDpNkOsfDn8sx06mthA.png"/>
 </p>
 <p align="center" height="80px" width="100%">
-<img width="80px" src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*Vo5RDpNkOsfDn8sx06mthA.png"/>
+  <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTG1wXbNHu71FIVcwPD6BwGrIwG9KGYqFOTug&s"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/tailwind.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Bootsrap.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
