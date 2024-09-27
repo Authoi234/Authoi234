@@ -35,6 +35,7 @@
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 <img width="80px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/>
 <img width="80px" src="https://miro.medium.com/v2/resize:fit:493/1*HHGc3cQgpSVes0maUAnYog.png"/>
+<img width="80px" src="https://reactrouter.com/_brand/react-router-stacked-color.png"/>
 </p>
 <p align="center" height="80px" width="100%">
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
