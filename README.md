@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, my name is <span style="background:linear-gradient(-70deg, #a2facf 0%, #64acff 100%);">Authoi</span> <br/> I am a Web Developer</h1>
 </div>
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your 
-                                                                  profile.
+# I am a Full-Stack Web developer, I am a react web developer
 
     
 - ### 🔭 I’m currently working on Redux.
