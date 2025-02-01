@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there 👋, my name is <span style="background: linear-gradient(93deg, rgba(238,174,202,1) 0%, rgba(238,121,182,1) 8%, rgba(96,157,247,1) 96%, rgba(148,187,233,1) 100%);background-clip:text;color:transparent">Authoi</span> <br/> I am a Web Developer</h1>
 </div>
-                                              <p style="text-align:center;" align="center">I am a Full-Stack Web developer, I am a react web developer.🥇</p>
+                                              <p style="text-align:center;" align="center">I am a Full-Stack Web developer, I am a React web developer.🥇</p>
                                                                                                                       
 
     
