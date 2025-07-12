@@ -1,15 +1,15 @@
 <div align="center">
   <h1>Hi there 👋, my name is <span style="background: linear-gradient(93deg, rgba(238,174,202,1) 0%, rgba(238,121,182,1) 8%, rgba(96,157,247,1) 96%, rgba(148,187,233,1) 100%);background-clip:text;color:transparent">Authoi</span> <br/> I am a Web Developer</h1>
 </div>
-                                              <p style="text-align:center;" align="center">I am a Full-Stack Web developer, I am a React web developer.🥇</p>
+                                              <p style="text-align:center;" align="center">I am a Full-Stack and MERN-Stack Web developer, I am a React web developer.🥇</p>
                                                                                                                       
 
     
-- ### 🔭 I’m currently working on Redux.
-- ### 📚 I have current learned and learning React.
-- ###  🌱 I’m currently learning Redux.
+- ### 🔭 I’m currently working on Python.
+- ### 📚 I have learned and learning React.
+- ###  🌱 I’m currently learning Python.
 - ### 💬 Ask me about Web Development.
-- ### 👨‍🏫 I am now becoming a master of react.
+- ### 👨‍🏫 I am now becoming a master of React and begginer of Python.
 
 
 
@@ -25,6 +25,7 @@
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img width="80px" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
+<img width="80px" src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png?f=webp"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
   <img width="80px" src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*Vo5RDpNkOsfDn8sx06mthA.png"/>
 </p>
@@ -41,6 +42,7 @@
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
+<img width="80px" src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=3840&q=75"/>
 </p> <br/>
 
 
