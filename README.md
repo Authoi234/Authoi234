@@ -5,7 +5,7 @@
                                                                                                                       
 
     
-- ### 🔭 I’m currently working on Python.
+- ### 🔭 I’m currently working on a project - APPRENT.
 - ### 📚 I have learned and learning React.
 - ###  🌱 I’m currently learning Python.
 - ### 💬 Ask me about Web Development.
