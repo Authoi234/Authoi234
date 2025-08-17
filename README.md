@@ -25,7 +25,7 @@
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img width="80px" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
-<img width="80px" src="https://miro.medium.com/v2/resize:fit:1400/0*WdefbD9guryDCuBj.png"/>
+<img width="80px" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png"/>
 <img width="80px" src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png?f=webp"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
   <img width="80px" src="https://cdn-images-1.medium.com/v2/resize:fit:1600/1*Vo5RDpNkOsfDn8sx06mthA.png"/>
