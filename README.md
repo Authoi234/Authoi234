@@ -41,7 +41,7 @@
 <img width="80px" src="https://reactrouter.com/_brand/react-router-stacked-color.png"/>
 <img width="80px" src="https://tanstack.com/assets/splash-light-CHqMsyq8.png"/>
 <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzl7r0NVEDNeZmp-iWtn7HchjBcX01nzhkw&s"/>
-<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Fuw0AuZRXr0O1d7CQZUt7fuhN-xdZ1sx9Q&s"/>
+<img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
 
 </p>
 <p align="center" height="80px" width="100%">
@@ -54,7 +54,7 @@
 <img width="80px" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png"/>
   <img width="80px" src="https://hostwizly.com/vercel-icon.svg"/>
   <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAikO6HfgCm0CRT5sSRBlYIwdPk7-08utow&s"/>
-  <img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
+  <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Fuw0AuZRXr0O1d7CQZUt7fuhN-xdZ1sx9Q&s"/>
 </p> <br/>
 
 
