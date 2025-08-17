@@ -45,6 +45,7 @@
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 <img width="80px" src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=3840&q=75"/>
 <img width="80px" src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg"/>
+<img width="80px" src="https://logos-world.net/wp-content/uploads/2022/12/Stripe-Emblem.png"/>
 </p> <br/>
 
 
