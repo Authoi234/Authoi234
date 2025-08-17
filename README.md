@@ -9,7 +9,7 @@
 - ### 📚 I have learned and learning React.
 - ###  🌱 I’m currently learning Python.
 - ### 💬 Ask me about Web Development.
-- ### 👨‍🏫 I am now becoming a master of React and begginer of Python.
+- ### 👨‍🏫 I am now becoming advanced master of React and going to advanced level of Python.
 
 
 
