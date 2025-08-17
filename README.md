@@ -40,6 +40,8 @@
 <img width="80px" src="https://miro.medium.com/v2/resize:fit:493/1*HHGc3cQgpSVes0maUAnYog.png"/>
 <img width="80px" src="https://reactrouter.com/_brand/react-router-stacked-color.png"/>
 <img width="80px" src="https://tanstack.com/assets/splash-light-CHqMsyq8.png"/>
+<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzl7r0NVEDNeZmp-iWtn7HchjBcX01nzhkw&s"/>
+<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Fuw0AuZRXr0O1d7CQZUt7fuhN-xdZ1sx9Q&s"/>
 </p>
 <p align="center" height="80px" width="100%">
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/node.png"/>
@@ -48,6 +50,7 @@
 <img width="80px" src="https://jwt.io/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fjwt-flower.f20616b0.png&w=3840&q=75"/>
 <img width="80px" src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg"/>
 <img width="80px" src="https://logos-world.net/wp-content/uploads/2022/12/Stripe-Emblem.png"/>
+<img width="80px" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png"/>
 </p> <br/>
 
 
