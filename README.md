@@ -52,8 +52,9 @@
 <img width="80px" src="https://pbs.twimg.com/profile_images/1735429515541938176/zOO1N7Su_400x400.jpg"/>
 <img width="80px" src="https://logos-world.net/wp-content/uploads/2022/12/Stripe-Emblem.png"/>
 <img width="80px" src="https://user-images.githubusercontent.com/13700/35731649-652807e8-080e-11e8-88fd-1b2f6d553b2d.png"/>
-  <img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
+  <img width="80px" src="https://hostwizly.com/vercel-icon.svg"/>
   <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAikO6HfgCm0CRT5sSRBlYIwdPk7-08utow&s"/>
+  <img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
 </p> <br/>
 
 
