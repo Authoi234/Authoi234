@@ -38,7 +38,7 @@
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/firebase.png"/>
 <img width="80px" src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png"/>
 <img width="80px" src="https://miro.medium.com/v2/resize:fit:493/1*HHGc3cQgpSVes0maUAnYog.png"/>
-<img width="80px" src="https://reactrouter.com/favicon-light.png"/>
+<img width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png"/>
 <img width="80px" src="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/09/m_Vw7t19_400x400.jpg?fit=400%2C400&ssl=1"/>
 <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzl7r0NVEDNeZmp-iWtn7HchjBcX01nzhkw&s"/>
 <img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
