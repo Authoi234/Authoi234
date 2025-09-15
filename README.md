@@ -27,6 +27,7 @@
 <img width="80px" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
 <img width="80px" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png"/>
 <img width="80px" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png"/>
+<img width="80px" src="https://blog.openreplay.com/images/charting-and-graphing-in-react-with-recharts/images/hero.png"/>
 <img width="80px" src="https://miro.medium.com/v2/1*p5aw0jh6hAtGG5b5ZWlqVA.png"/>
 <img width="80px" src="https://p1.hiclipart.com/preview/570/557/170/react-logo-redux-javascript-vuejs-babel-nodejs-npm-web-application-png-clipart.jpg"/>
 <img width="80px" src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png?f=webp"/>
@@ -61,7 +62,6 @@
   <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAikO6HfgCm0CRT5sSRBlYIwdPk7-08utow&s"/>
   <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Fuw0AuZRXr0O1d7CQZUt7fuhN-xdZ1sx9Q&s"/>
   <img width="80px" src="https://cdn.techimply.com/uploads/software/28663/logo/1827644c97b7a50d70bf0539c153087e.png"/>
-<img width="80px" src="https://blog.openreplay.com/images/charting-and-graphing-in-react-with-recharts/images/hero.png"/>
 </p> <br/>
 
 
