@@ -45,6 +45,9 @@
 <img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
 <img width="80px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"/>
 <img width="80px" src="https://avatars.githubusercontent.com/u/139895814?v=4"/>
+<img width="80px" src="https://docs.pmnd.rs/_next/static/media/drei-icon.cbe3cdab.svg"/>
+<img width="80px" src="https://miro.medium.com/v2/1*p5aw0jh6hAtGG5b5ZWlqVA.png"/>
+<img width="80px" src="https://blog.openreplay.com/images/charting-and-graphing-in-react-with-recharts/images/hero.png"/>
 
 </p>
 <p align="center" height="80px" width="100%">
@@ -58,6 +61,7 @@
   <img width="80px" src="https://hostwizly.com/vercel-icon.svg"/>
   <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuAikO6HfgCm0CRT5sSRBlYIwdPk7-08utow&s"/>
   <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Fuw0AuZRXr0O1d7CQZUt7fuhN-xdZ1sx9Q&s"/>
+  <img width="80px" src="https://cdn.techimply.com/uploads/software/28663/logo/1827644c97b7a50d70bf0539c153087e.png"/>
 </p> <br/>
 
 
