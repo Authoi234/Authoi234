@@ -43,6 +43,8 @@
 <img width="80px" src="https://i0.wp.com/frontendmasters.com/blog/wp-content/uploads/2024/09/m_Vw7t19_400x400.jpg?fit=400%2C400&ssl=1"/>
 <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzl7r0NVEDNeZmp-iWtn7HchjBcX01nzhkw&s"/>
 <img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
+<img width="80px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"/>
+<img width="80px" src="https://avatars.githubusercontent.com/u/139895814?v=4"/>
 
 </p>
 <p align="center" height="80px" width="100%">
