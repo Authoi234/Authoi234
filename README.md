@@ -29,6 +29,8 @@
 <img width="80px" src="https://react-hook-form.com/images/logo/react-hook-form-logo-only.png"/>
 <img width="80px" src="https://blog.openreplay.com/images/charting-and-graphing-in-react-with-recharts/images/hero.png"/>
 <img width="80px" src="https://miro.medium.com/v2/1*p5aw0jh6hAtGG5b5ZWlqVA.png"/>
+<img width="80px" src="https://e7.pngegg.com/pngimages/253/553/png-clipart-elementor-logo-thumbnail-tech-companies.png"/>
+<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzAxIzs2yRTPxONA1yBwMZdhkNwlqmIpxFug&s"/>
 <img width="80px" src="https://p1.hiclipart.com/preview/570/557/170/react-logo-redux-javascript-vuejs-babel-nodejs-npm-web-application-png-clipart.jpg"/>
 <img width="80px" src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png?f=webp"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
@@ -46,6 +48,9 @@
 <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvzl7r0NVEDNeZmp-iWtn7HchjBcX01nzhkw&s"/>
 <img width="80px" src="https://res.cloudinary.com/dl2adjye7/image/upload/v1716466543/framer_zwbowr.png"/>
 <img width="80px" src="https://avatars.githubusercontent.com/u/6853419?s=200&v=4"/>
+<img width="80px" src="https://ps.w.org/elespare/assets/icon-256x256.png?rev=2590822"/>
+<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdWCQeLJz25IwHJ4tIXAZu5g1RIZfaJLHRnQ&s"/>
+<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyFojgxT1ZKWLJhcYJx223JrFC9qHknCWdCQ&s"/>
 <img width="80px" src="https://avatars.githubusercontent.com/u/139895814?v=4"/>
 
 </p>
