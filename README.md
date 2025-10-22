@@ -21,11 +21,11 @@
 
 <br>
 <p align="center" height="80px" width="100%">
-<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwedCJx1NAmpyFHH0iG__uBVMEBme2NknvJ-FB2ByKbPOYS9B8yaEFpKeoS93ZGwX11U&usqp=CAU"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/JavaScript.png"/>
 <img width="80px" src="https://www.datocms-assets.com/48401/1628645197-learn-typescript.png"/>
 <img width="80px" src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png?f=webp"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
+<img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwedCJx1NAmpyFHH0iG__uBVMEBme2NknvJ-FB2ByKbPOYS9B8yaEFpKeoS93ZGwX11U&usqp=CAU"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
 <img width="80px" src="https://reactrouter.com/_brand/React%20Router%20Brand%20Assets/React%20Router%20Logo/Light.png"/>
