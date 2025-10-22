@@ -7,9 +7,9 @@
     
 - ### 🔭 I’m currently working on a project - APPRENT.
 - ### 📚 I have learned and learning React.
-- ###  🌱 I’m currently learning Python.
+- ###  🌱 I’m currently learning Python & C.
 - ### 💬 Ask me about Web Development.
-- ### 👨‍🏫 I am now becoming advanced master of React and going to advanced level of Python.
+- ### 👨‍🏫 I am now becoming advanced master of React and going to advanced level of Python and C.
 
 
 
