@@ -26,6 +26,7 @@
 <img width="80px" src="https://cdn3d.iconscout.com/3d/premium/thumb/python-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-development-code-programming-computer-science-pack-technology-icons-5602757.png?f=webp"/>
 <img width="80px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuwedCJx1NAmpyFHH0iG__uBVMEBme2NknvJ-FB2ByKbPOYS9B8yaEFpKeoS93ZGwX11U&usqp=CAU"/>
 <img width="80px" src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png"/>
+<img width="80px" src="https://cdn.prod.website-files.com/61b684cfc47a93505353ab32/63c687ad5845fe4057037c44_golang.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/react.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/HTML.png"/>
 <img width="80px" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/css.png"/>
