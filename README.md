@@ -9,7 +9,7 @@
 - ### 📚 I have learned and learning React.
 - ###  🌱 I’m currently learning Python & C.
 - ### 💬 Ask me about Web Development.
-- ### 👨‍🏫 I am now becoming advanced master of React and going to advanced level of Python and C.
+- ### 👨‍🏫 I am now becoming advanced master of React and going to advanced level of Python and C&C++.
 
 
 
