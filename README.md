@@ -81,4 +81,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Authoi234)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Authoi234&show_icons=true&count_private=true)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=authoi234&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Profile views](https://komarev.com/ghpvc/?username=Authoi234&color=green)  
